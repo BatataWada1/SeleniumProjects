@@ -1,0 +1,7 @@
+[DEFAULT]
+chrome = D:\SeleniumUdemy\selenium_drivers\chromedriver\chromedriver.exe
+iedriverpath = D:\SeleniumUdemy\selenium_drivers\iedriver\IEDriverServer.exe
+moziladriverpath = D:\SeleniumUdemy\selenium_drivers\moziladriver\geckodriver.exe
+edgedriverpath = D:\SeleniumUdemy\selenium_drivers\edgedriver\MicrosoftWebDriver.exe
+loginURL = https://admin-demo.nopcommerce.com/login
+screenshots = C:\Users\mandar_kulkarni1\PycharmProjects\nopcommerce\Screenshots
